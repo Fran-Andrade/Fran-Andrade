@@ -9,8 +9,8 @@ I'm Fran Andrade, Marketing and IT student!👋
 
 <div align="center">
   <a href="https://github.com/Fra-Andrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fran-Andrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fran-Andrade&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Fran-Andrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fran-Andrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 ##
 <div> 
