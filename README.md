@@ -3,7 +3,7 @@ I'm Fran Andrade, Marketing and IT student!👋
 
 
 - 🔭 I’m currently working on Social Media
-- 🌱 I’m currently learning Front end e Back end
+- 🌱 I’m currently learning Front end 
 - 📫 How to reach me: fran.urbanus@gmail.com
 - 😄 Pronouns: Ela/Dela
 
